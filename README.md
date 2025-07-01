@@ -1,4 +1,4 @@
-# 🧠 Veroke AI-Powered Image Annotation Platform
+# 🧠 LabelOps, AI-Powered Image Annotation Platform by Veroke
 
 **One Unified AI Platform for Image Annotation & Smart Visual Search**  
 At Veroke, we’re reshaping how teams and individuals interact with visual data — combining cutting-edge AI annotation tools with intelligent image organization and search in one seamless, web-based platform.
